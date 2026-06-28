@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0367-valid-perfect-square) |
+| [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0162-find-peak-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

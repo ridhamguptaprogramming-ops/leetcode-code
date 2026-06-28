@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

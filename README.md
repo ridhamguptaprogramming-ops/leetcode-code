@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0367-valid-perfect-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

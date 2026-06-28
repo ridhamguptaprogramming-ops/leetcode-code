@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0532-k-diff-pairs-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

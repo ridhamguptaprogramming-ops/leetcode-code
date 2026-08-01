@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0367-valid-perfect-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

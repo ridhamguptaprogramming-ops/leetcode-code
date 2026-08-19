@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0344-reverse-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->

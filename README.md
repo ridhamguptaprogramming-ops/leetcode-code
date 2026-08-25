@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0204-count-primes) |
+| [0503-next-greater-element-ii](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0682-baseball-game) |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0344-reverse-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Math
@@ -91,5 +92,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ridhamguptaprogramming-ops/leetcode-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
